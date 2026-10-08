@@ -1,20 +1,22 @@
 # DAT-SKI Material
 
 Aufgaben, Demos, Lösungen und Daten für das Modul DAT-SKI.
-Die Anleitung steht in der [Wissensdatenbank](https://abbts-dat-ski.github.io/wissensdatenbank/material_downloads/).
+Die Anleitung mit Screenshots steht in der [Wissensdatenbank](https://abbts-dat-ski.github.io/wissensdatenbank/python_installation/).
 
 ## Einmal einrichten
+
+In PyCharm: **Clone Repository**, URL `https://github.com/ABBTS-DAT-SKI/material.git`, Ordner `C:\DAT-SKI`.
+Oder in PowerShell, zum Beispiel für VS Code:
 
 ```bash
 git clone https://github.com/ABBTS-DAT-SKI/material.git C:\DAT-SKI
 ```
 
-Öffne danach den Ordner `C:\DAT-SKI` in VS Code.
-
 ## Jede Woche
 
+Im Terminal von PyCharm (oder in PowerShell im Ordner `C:\DAT-SKI`):
+
 ```bash
-cd C:\DAT-SKI
 git pull
 ```
 
