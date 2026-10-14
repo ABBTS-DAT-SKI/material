@@ -5,7 +5,7 @@ Die Anleitung mit Screenshots steht in der [Wissensdatenbank](https://abbts-dat-
 
 ## Einmal einrichten
 
-In PyCharm: **Clone Repository**, URL `https://github.com/ABBTS-DAT-SKI/material.git`, Ordner `C:\DAT-SKI`.
+In PyCharm: **Clone Repository**, URL `https://github.com/ABBTS-DAT-SKI/material.git` (Ordner: Vorschlag von PyCharm, nicht in OneDrive).
 Oder in PowerShell, zum Beispiel für VS Code:
 
 ```bash
@@ -14,7 +14,8 @@ git clone https://github.com/ABBTS-DAT-SKI/material.git C:\DAT-SKI
 
 ## Jede Woche
 
-Im Terminal von PyCharm (oder in PowerShell im Ordner `C:\DAT-SKI`):
+In PyCharm: oben links auf den Branch **main** klicken, dann **Update Project** (`Ctrl+T`).
+Oder im Terminal (PyCharm oder PowerShell im Material-Ordner):
 
 ```bash
 git pull
