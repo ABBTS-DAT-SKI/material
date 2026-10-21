@@ -27,5 +27,4 @@ git pull
 - Die Folien liegen als PDF im Ordner des Unterrichtsblocks, zum Beispiel `Unterrichtsblock-1/UB1_Folien.pdf`.
 - Lösungen kommen nach dem Unterricht als neue Dateien in `Unterrichtsblock-N/Loesungen/`.
 - Eigene Dateien gibst du einen eigenen Namen, zum Beispiel `meine_notizen.ipynb`. Lege keine Ordner `Unterrichtsblock-N` für künftige Blöcke an.
-- Entpacke keine ZIP-Dateien in diesen Ordner, sonst bricht `git pull` ab.
 - Kein `git add` und kein `git commit` nötig.
